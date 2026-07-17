@@ -1,2 +1,0 @@
-# mirrorwoodmailers
-Campaign Wiki
