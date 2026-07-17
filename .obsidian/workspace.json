@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "1a729ee0cac935eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c7274062f22e2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71766aa2fbd05bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Party/Members/Kal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kal"
+            }
+          },
+          {
+            "id": "666003abc50d37d5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "0b94f09564d8c6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Missions/Taking Down Corvin Hale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taking Down Corvin Hale"
+            }
+          },
+          {
+            "id": "a5c108a096c75d86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirrorwood Community/Notable NPCs/Emmet Caskin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emmet Caskin"
+            }
+          },
+          {
+            "id": "4e4f38db54c05e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Tamaris Telescope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Tamaris Telescope"
+            }
+          },
+          {
+            "id": "6dd6bfc8272225c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Mailers/Members/Jungo Jargon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jungo Jargon"
+            }
+          },
+          {
+            "id": "17e51cd04d016e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Missions/Refugee Rescue Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Refugee Rescue Mission"
+            }
+          },
+          {
+            "id": "b05132e93c9e7d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Missions/Refugee Rescue Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Refugee Rescue Mission"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b660f7e4efb2174a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52ead5c5e69f670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8d6558125758f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79f1f803f662ed4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9db19ed3a5d460d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7beff5b9640985bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c7ae9289d4045e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07ab5252de1ef575",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Party/Members/Kal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kal"
+            }
+          },
+          {
+            "id": "99286f08a11e085e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Corvus Wright.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Corvus Wright"
+            }
+          },
+          {
+            "id": "e0d1a2b10e6d64e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f43696a9fda19061",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0725464a5fb794e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Corvus Wright.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Corvus Wright"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "image-picker:Open Image Picker": false
+    }
+  },
+  "active": "b05132e93c9e7d0c",
+  "lastOpenFiles": [
+    "snow griffon.md",
+    "Missions/Refugee Rescue Mission.md",
+    "Missions/Mysterious Cargo Mission.md",
+    "Non-Mirrorwood NPCs/Iris.md",
+    "Pasted image 20260716214740.png",
+    "Pasted image 20260716214658.png",
+    "Snow Unicorn.md",
+    "Factions/The Order of Mottus.md",
+    "Charmwork.md",
+    "Non-Mirrorwood NPCs/Alfred Mottus.md",
+    "Non-Mirrorwood NPCs/Ash Voss.md",
+    "Non-Mirrorwood NPCs/Celian Marrow.md",
+    "Mirrorwood Community/Notable NPCs/Philip.md",
+    "Mirrorwood Community/Culture and Politics.md",
+    "Mirrorwood Community/Lakewater.md",
+    "Missions/Disturbed Morokai Mission.md",
+    "Mirrorwood Community/Notable NPCs/Lloyd Mattison.md",
+    "Mirrorwood Community/Notable NPCs/Lilah Wren.md",
+    "Mirrorwood Community/Notable NPCs/Goz.md",
+    "Mirrorwood Community/Notable NPCs/Emmet Caskin.md",
+    "Missions/Taking Down Corvin Hale.md",
+    "Non-Mirrorwood NPCs/Ed Hammer.md",
+    "Factions/Synapse Wreath.md",
+    "Non-Mirrorwood NPCs/Mara Cineglass.md",
+    "Regions of Tamaris/Malvarose.md",
+    "Regions of Tamaris/Meridian Valley.md",
+    "Non-Mirrorwood NPCs/The Passage Brothers.md",
+    "The Mailers/Members/Jungo Jargon.md",
+    "signal-2026-07-16-18-32-56-911_002.jpg",
+    "Regions of Tamaris",
+    "Factions",
+    "Non-Mirrorwood NPCs",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Missions",
+    "The Passage Brothers.canvas",
+    "Mirrorwood Community/Notable NPCs",
+    "Mirrorwood Community/Culture and Politics",
+    "Mirrorwood Community",
+    "The Mailers/Members",
+    "The Mailers"
+  ]
+}
